@@ -1,0 +1,19 @@
+.background{
+  
+    height: 100%;
+     background-image: url('../../../assets/Img/web-design-2906159_1920.jpg') ;
+     background-position: center;
+     background-repeat: no-repeat;
+     background-size: cover;
+    
+    //  align button to center
+     display: flex;
+     justify-content: center;
+     align-items: center;
+    }
+    
+    .mat-raised-button{
+        background-color: white;
+        color: black;
+        width: 15%;
+    }
